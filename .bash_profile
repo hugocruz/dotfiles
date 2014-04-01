@@ -5,7 +5,7 @@ export LC_ALL=en_US.UTF-8
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
-export PATH=/usr/local/sbin
+export PATH="/usr/local/sbin"
 export NODE_PATH="/usr/local/share/npm/lib/node_modules/"
 
 
